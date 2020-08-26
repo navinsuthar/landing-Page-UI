@@ -95,8 +95,8 @@ header.masthead h1 {
 }
 
 .testimonials {
-    padding-top: 7rem;
-    padding-bottom: 7rem;
+    padding-top: 4rem;
+    padding-bottom: 10rem;
 }
 
 .testimonials .testimonial-item {
@@ -111,7 +111,7 @@ header.masthead h1 {
 .call-to-action {
     position: relative;
     background-color: #343a40;
-    background: url("https://www.thepalaceonwheels.org/blog/wp-content/uploads/2018/01/Rambagh-Palace-in-Jaipur.jpg") no-repeat center center;
+    background: url("../image/rajasthanHotel/Rambagh-Palace-in-Jaipur.jpg") no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -131,8 +131,12 @@ header.masthead h1 {
 }
 
 footer.footer {
-    padding-top: 4rem;
-    padding-bottom: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+a {
+    color: #212529!important;
 }
 
 .form-signin .checkbox {
