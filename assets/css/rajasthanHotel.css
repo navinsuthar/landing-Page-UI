@@ -17,9 +17,9 @@ h6 {
     width: 77%;
 }
 
-.room-responsive {
-    max-width: 41%!important;
-    height: 91%;
+.people-responsive {
+    width: 83px!important;
+    height: 86%;
 }
 
 header.masthead {
@@ -74,7 +74,7 @@ header.masthead h1 {
 }
 
 .features-icons {
-    padding-top: 7rem;
+    padding-top: 4rem;
     padding-bottom: 7rem;
 }
 
@@ -101,6 +101,8 @@ header.masthead h1 {
 
 .testimonials .testimonial-item {
     max-width: 18rem;
+    height: 78%;
+    padding-top: 15%;
 }
 
 .testimonials .testimonial-item img {
